@@ -1,4 +1,5 @@
-# 💫 About Me:
+
+<# 💫 About Me:
 I'm currently working on new cloud security projects in relation to Ai.<br>I'm looking for help with learning how to deploy AI in Cloud Infrastrcuture.<br>I'm currently learning about Cloud storage and trust policies.<br>Fun Fact: I like Azure a bit more than AWS! 
 
 
@@ -15,7 +16,7 @@ I'm currently working on new cloud security projects in relation to Ai.<br>I'm l
 ---
 [![](https://visitcount.itsvg.in/api?id=timotheus30&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
