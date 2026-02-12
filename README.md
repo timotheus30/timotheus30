@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Cloud Security Professional.<br>I'm learning how to deploy AI in Cloud Infrastrcuture.<br>I'm currently learning about the differences between Azure and AWS in relation to their cloud environments.<br>I'm open to hearing and trying innovative ideas and strategies about cybersecurity!!
+Welcome to my page! I have visions of becoming a Cloud Security Professional.<br>I'm learning how to deploy AI in Cloud Infrastrcuture.<br>I'm currently learning about the differences between Azure and AWS in relation to their cloud environments.<br>I'm open to hearing and trying innovative ideas and strategies about cybersecurity!!
 
 
 ## 🌐 Socials:
