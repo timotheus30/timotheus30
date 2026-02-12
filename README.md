@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on new cloud security projects in relation to Ai.<br>I'm looking for help with learning how to deploy AI in Cloud Infrastrcuture.<br>I'm currently learning about Cloud storage and trust policies.<br>Fun Fact: I like Azure a bit more than AWS! 
+I'm working on new cloud security projects in relation to Ai.<br>I'm learning how to deploy AI in Cloud Infrastrcuture.<br>I'm currently learning about the differences between Azure and AWS in relation to their cloud environments.<br>I'm open to hear new ideas and strategies about cybersecurity!!
 
 
 ## 🌐 Socials:
